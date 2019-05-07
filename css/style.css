@@ -1,0 +1,36 @@
+body{
+    background-color:#384450 !important;
+    color: rgba(70, 255, 110, 0.945);
+    
+}
+.navbar-brand{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 35px !important;
+    
+}
+
+h1{
+    font-family: 'Khand', sans-serif;
+    font-weight: 600; 
+    margin: 20px;
+}
+
+.nombre{
+    font-family: 'Khand', sans-serif;
+    font-weight: 600; 
+    margin: 20px;
+    font-size: 50px;
+}
+
+p{
+    font-family: 'Khand', sans-serif;
+    font-size: 25px;
+    margin: 20px;
+}
+
+.icono{
+    height: 35px;
+    width: 35px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
