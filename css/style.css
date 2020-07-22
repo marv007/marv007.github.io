@@ -1,6 +1,7 @@
 body{
     background-color:#DAE5E7 !important;
     color: #48463A;
+    
 
     
     
@@ -8,12 +9,12 @@ body{
 }
 .navbar-brand{
     font-family: 'Fjalla One', sans-serif;
-    font-size: 35px !important;
+    font-size: 25px !important;
     
 }
 
 .nav-texto{
-    font-size: 40px !important;
+    font-size: 25px !important;
     color: white !important;
 }
 
@@ -24,6 +25,7 @@ body{
 
 .navbar{
     background-color: #48463A !important;
+    
     
 }
 
@@ -37,7 +39,7 @@ h1{
     font-family: 'Khand', sans-serif;
     font-weight: 600; 
     
-    font-size: 50px;
+    font-size: 40px;
 }
 
 p{
@@ -69,7 +71,7 @@ p{
 }
 
 .linea{
-    margin: 0px !important;
+    margin-top: 10px !important;
 }
 
 .texto{
